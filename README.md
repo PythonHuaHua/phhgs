@@ -1,10 +1,10 @@
 # phhgs
 python-based coding language
 
-#update log
+# update log
 
-2022.6.3
-bug：
+# 2022.6.3
+## bug：
 1. in []的优化问题
 1.1 in []的误输问题
 1.2 中括号内是否要包括冒号问题
@@ -22,8 +22,8 @@ bug：
 3. pyautogui打包问题
 4. def 名称规范性问题
 
-2022.6.4
-bug：
+# 2022.6.4
+## bug：
 1. 二次set type会出现type和value对不上的问题
 1.1 二次set type导致的二次set value失败问题
 1.2 二次set type导致的输出问题
